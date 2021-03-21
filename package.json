@@ -26,5 +26,8 @@
   "homepage": "https://github.com/magic-akari/modpow#readme",
   "devDependencies": {
     "typescript": "^4.2.3"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
