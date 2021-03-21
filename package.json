@@ -1,0 +1,26 @@
+{
+  "name": "@magic-akari/modpow",
+  "version": "0.0.0",
+  "description": "modpow for deno",
+  "main": "build/modpow.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magic-akari/modpow.git"
+  },
+  "keywords": [
+    "modpow",
+    "deno"
+  ],
+  "author": "magic-akari <akari.ccino@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/magic-akari/modpow/issues"
+  },
+  "homepage": "https://github.com/magic-akari/modpow#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
