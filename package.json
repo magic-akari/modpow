@@ -1,6 +1,6 @@
 {
   "name": "@magic-akari/modpow",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "modpow for deno",
   "main": "build/modpow.js",
   "scripts": {
