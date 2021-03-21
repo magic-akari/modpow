@@ -6,6 +6,10 @@
   "scripts": {
     "build": "tsc"
   },
+  "files": [
+    "src",
+    "build"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/magic-akari/modpow.git"
