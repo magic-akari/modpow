@@ -5,7 +5,7 @@
   "type": "module",
   "main": "lib/modpow.js",
   "types": "lib/modpow.d.ts",
-  "packageManager": "pnpm@7.0.1",
+  "packageManager": "pnpm@9.12.2",
   "scripts": {
     "build": "tsc"
   },
